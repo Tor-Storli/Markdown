@@ -1,0 +1,19 @@
+
+table{
+    border-style: hidden !important;
+    border-collapse: collapse;
+    background-color: #acd1b2;
+    float: left;
+	margin: 25px 0;
+    margin-left: 10px !important;
+    border-radius: 10px !important;
+    border-bottom-right-radius: 25px !important;
+    border-bottom-left-radius: 25px !important;
+	border-radius: 20px !important;
+	float:left; width:100%; 
+  }
+    th {float:left; color:red;font-size:14pt;} 
+    th:first-of-type {width: 15%;}
+	th:nth-of-type(2) {width: 20%;}
+    th:nth-of-type(3) {width: 70%;}    
+    tr {font-size:11pt;}  

@@ -1,0 +1,28 @@
+table {
+	float:left; width:100%;
+	border-style: hidden !important;
+    border-collapse: collapse;
+    background-color: #E5CD8B;
+    float: left;
+    margin-right: 10px;
+    border-radius: 25px !important;
+    border-bottom-right-radius: 35px !important;
+    border-bottom-left-radius: 35px !important;
+	border-radius: 10px !important;
+}
+tr td:first-child {
+      font-weight: bold;
+}
+th:nth-child(1) {
+  background-color: #D8A86E;
+  width: 15%;
+}
+th:nth-child(2) {
+  background-color: #D8A86E;
+  width: 10%
+}
+th:nth-child(3) {
+  background-color: #D8A86E;
+  width: 75%
+}  
+tr {font-size:11pt;} 

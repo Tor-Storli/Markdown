@@ -1,0 +1,15 @@
+table{
+	float:left; width:100%;
+    background-color: #8BD3E5;
+    float: left;
+    margin-right: 10px;
+    border-radius: 15px !important;
+    border-bottom-right-radius: 25px !important;
+    border-bottom-left-radius: 25px !important;
+	border-radius: 10px !important;
+}
+th:first-child(1) {background-color: #8BD3E5; width: 15%;}
+th:nth-child(2) {background-color: #8BD3E5; width: 10%}
+th:nth-child(3) {background-color: #8BD3E5; width: 75%}
+tr {font-size:11pt}
+tr td:first-child {font-weight: bold};
